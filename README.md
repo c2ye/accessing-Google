@@ -2,6 +2,7 @@ accessing-Google
 ================
 
 不翻墙访问谷歌的方法
+
 作为程序员，是经常需要用到谷歌的，每次用的话如果都得打开VPN或者翻墙软件不免觉得麻烦，在这里介绍一种通过修改hosts文件来访问谷歌的方法，可以访问Gmail，YouTube等众多谷歌旗下产品。
 
 'windows'可以通过开始——运行，输入C:\WINDOWS\system32\drivers\etc\hosts
